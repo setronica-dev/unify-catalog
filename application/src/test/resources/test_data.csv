@@ -1,0 +1,7 @@
+id,content,category
+sku500,"{""title"":""hello"",""price"":5}",general
+sku600,"{""title"":""yes"",
+""price"":55}",general
+sku700,"{""title"":""no""}",general
+sku800,"{""title"":""no""}",hello
+sku900,"{""title"":""no"",""price"":-555}",hello
